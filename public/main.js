@@ -21,7 +21,7 @@ form.addEventListener('submit', e => {
 let dataPoints = [
   { label: 'Windows', y: 0 },
   { label: 'MacOs', y: 0 },
-  { label: 'Linux Distro', y: 0 },
+  { label: 'Linux', y: 0 },
   { label: 'Other', y: 0 }
 ];
 
